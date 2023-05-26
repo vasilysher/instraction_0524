@@ -6,3 +6,10 @@
 
 ## Установка git
 загружаем последнюю версию git 
+
+## Настройка Git
+'''
+при первом использовании необходимо представится. Для это ввести две команды:
+git config --global user.name «Ваше имя»
+git config --global user.email ваша "почта@example.com"
+''' piython
