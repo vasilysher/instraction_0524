@@ -13,3 +13,7 @@
 git config --global user.name «Ваше имя»
 git config --global user.email ваша "почта@example.com"
 ''' piython
+
+## Начало работы с файлом
+
+' добавляем новую папку/репозиторий где будем работать с файлами.'
