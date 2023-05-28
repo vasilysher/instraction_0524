@@ -26,7 +26,8 @@ git config --global user.email ваша "почта@example.com"
 * git checkout "номер commit"- переключает между различными commit.
 * git checkout master - возвращает на основную ветку.
 * git diff - разница между файлами.
+* git status - контроль изменений.
 
 ## Работа в новых версиях файлов
-1. создание git branch имя_имя - новая ветка.
+1. создание **git branch** _имя_имя_ - новая ветка.
 2. 
